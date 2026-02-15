@@ -37,5 +37,5 @@ More coming soon (AutoGPT, MetaGPT, DSPy, etc. — contributions welcome).
    pip install singularitic...
 
    from singularitic import SingulariticClient
-pas = SingulariticClient(base_url="https://singularitic.com/api")
-pas.login("your-email@company.com", "your-password")  # or use api_key
+   pas = SingulariticClient(base_url="https://singularitic.com/api")
+   pas.login("your-email@company.com", "your-password")  # or use api_key
